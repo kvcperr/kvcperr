@@ -1,7 +1,7 @@
-<p align="center">npm install a-life</p>
+npm install a-life
 
 
-<img src="https://discordapp.com/api/guilds/806486485422964758/widget.png?style=banner2" alt="Discord Banner 2"/>
+<h1 align="center"><img src="https://discordapp.com/api/guilds/806486485422964758/widget.png?style=banner2" alt="Discord Banner 2"/></h1>
 
 ### Teraz Slucham 🎧
 
