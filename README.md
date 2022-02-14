@@ -1,4 +1,6 @@
+```js
 npm install a-life
+```
 
 
 ### Teraz Slucham 🎧
