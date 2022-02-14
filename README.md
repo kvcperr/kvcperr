@@ -1,12 +1,10 @@
 
 
-```js
-npm install a-life
-```<h1 align="center">
+
 <img src="https://discordapp.com/api/guilds/806486485422964758/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 ### Teraz Slucham 🎧
-<p align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=669ttbk20x1svae1gwuhl1ojm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=669ttbk20x1svae1gwuhl1ojm&redirect=true)
 
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
