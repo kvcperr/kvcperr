@@ -1,4 +1,5 @@
-
+<h1 align="center">
+npm install a-life</h1>
 
 
 <img src="https://discordapp.com/api/guilds/806486485422964758/widget.png?style=banner2" alt="Discord Banner 2"/>
