@@ -1,4 +1,6 @@
+```js
 npm install a-life
+```
 
 
 <img src="https://discordapp.com/api/guilds/806486485422964758/widget.png?style=banner2" alt="Discord Banner 2"/>
