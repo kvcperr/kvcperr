@@ -14,8 +14,6 @@ npm install a-life
   
 <a href="https://github.com/kacperekdev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
   
-  <img src="https://cdn.discordapp.com/attachments/936378744363433994/940644432494096404/image0-24.gif" alt="x"/>
-
 
 
                             (
