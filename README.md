@@ -13,6 +13,8 @@ npm install a-life
   
 <a href="https://github.com/kacperekdev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
+![image0-24](https://user-images.githubusercontent.com/79223917/154176190-136b4be9-757e-43ff-9f3f-35e8278d529d.gif)
+
 
                             (
                 .            )        )
