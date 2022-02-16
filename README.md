@@ -1,7 +1,6 @@
 ```js
 npm install a-life
 ```
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <img src="https://discordapp.com/api/guilds/806486485422964758/widget.png?style=banner2" alt="Discord Banner 2"/>
 
@@ -14,6 +13,8 @@ npm install a-life
   
 <a href="https://github.com/kacperekdev" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
+  
+![Alt Text](https://cdn.discordapp.com/attachments/936378744363433994/940644432494096404/image0-24.gif) 
 
                             (
                 .            )        )
