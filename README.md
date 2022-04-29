@@ -1,6 +1,6 @@
-```js
-npm install a-life
-```
+
+🌐・**Website: [https://kvcperr.me](https://kvcperr.me)**
+
 
 <img src="https://discordapp.com/api/guilds/806486485422964758/widget.png?style=banner2" alt="Discord Banner 2"/>
 
